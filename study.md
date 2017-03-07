@@ -15,15 +15,14 @@
 
 1. 코딩 환경 설정
 
-   1. 컴파일러 설치하기
+* 컴파일러 설치하기
 
-   2. 풀어볼 문제
+* 풀어볼 문제
+  * [2557](http://www.acmicpc.net/problem/2557)
+  * [1000](http://www.acmicpc.net/problem/1000/)
+  * [1001](http://www.acmicpc.net/problem/1001/)
 
-      1. [ ] [2557](http://www.acmicpc.net/problem/2557)
 
-      2. [ ] 1000
-
-      3. [ ] 1001
 
 
 
