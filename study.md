@@ -1,6 +1,6 @@
 # 2017 1학기 스터디 진행
 
-스터디 진행사항 안내문 입니다.
+### 스터디 진행사항 안내문 입니다.
 
 1. [https://github.com/ZERONE-CODE](https://github.com/ZERONE-CODE) 접속 후 그룹 join
 2. [https://www.gitbook.com/book/zerone/wiki/details](https://www.gitbook.com/book/zerone/wiki/details) 접속 후 깃헙 아이디로 로그인 / 깃북 권한 뚫기
@@ -11,7 +11,7 @@
 7. Add and article로 스터디 날짜 문서 생성
 8. 그 날 스터디 출석, 진행사항, 간단한 코맨트 기록
 
-커리큘럼
+### 커리큘럼
 
 1. 코딩 환경 설정
 
