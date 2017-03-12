@@ -6,7 +6,6 @@
 ## 신입생 스터디 진행사항
 
 * [안내문](study.md)
-* [주민건\(예제\)](study/test.md)
 * [박성우](psw.md)
 * [윤주경](study/jky.md)
 
