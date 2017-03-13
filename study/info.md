@@ -6,8 +6,6 @@
 2. [https://github.com/ZERONE-CODE/WIKI](https://github.com/ZERONE-CODE/WIKI ) 를 클론한 뒤, 자신의 영어이름.md 파일 생성.
 3. 매주  양식에 맞추어 작성 후 add, commint, push
 
-
-
 ### 양식
 
 \# \*\*2017 1학기 C언어 기초 스터디\*\*
@@ -27,8 +25,6 @@
 \#\#\# 3.20 \\(예시\\)
 
 ...
-
-
 
 ### 커리큘럼
 
