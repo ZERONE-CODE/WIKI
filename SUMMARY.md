@@ -9,4 +9,5 @@
 * [C언어 기초](study/hi.md)
   * [박성우](study/psw.md)
   * [윤주경](study/jky.md)
+  * [김민상](study/Kimminsang.md)
 
