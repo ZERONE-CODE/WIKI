@@ -3,14 +3,32 @@
 ### 스터디 진행사항 안내문 입니다.
 
 1. [https://github.com/ZERONE-CODE](https://github.com/ZERONE-CODE) 접속 후 그룹 join
-2. [https://www.gitbook.com/book/zerone/wiki/details](https://www.gitbook.com/book/zerone/wiki/details) 접속 후 깃헙 아이디로 로그인 / 깃북 권한 뚫기
-3. 메인 페이지에서 edit 버튼을 누르기
-4. 스터디 진행사항을 마우스 오른쪽 클릭
-5. Add an article로 본인 이름 문서 생성
-6. 본인 이름 문서 마우스 오른쪽 클릭 이후 Edit Pointer 클릭
-7. 주소를 자신의 영어 초성 등 영어로 변경
-8. 그 날 스터디 출석, 진행사항, 간단한 코맨트 기록
-9. 오른쪽 상단의 Publish 버튼 클릭
+2. [https://github.com/ZERONE-CODE/WIKI](https://github.com/ZERONE-CODE/WIKI ) 를 클론한 뒤, 자신의 영어이름.md 파일 생성.
+3. 매주  양식에 맞추어 작성 후 add, commint, push
+
+
+
+### 양식
+
+\# \*\*2017 1학기 C언어 기초 스터디\*\*
+
+멘토: 박성우
+
+멘티:
+
+\#\#\# 3.15 \\(예시\\)
+
+출석 - 박성우, 윤주경, 정희재
+
+진행사항 - 환경구축, 백준 그룹 초대, 프린트문
+
+얘들이 너무 잘한다.
+
+\#\#\# 3.20 \\(예시\\)
+
+...
+
+
 
 ### 커리큘럼
 
