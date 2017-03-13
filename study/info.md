@@ -1,6 +1,6 @@
-# 2017 1학기 스터디 진행
+# 2017 1학기 스터디 진행 방법
 
-### 스터디 진행사항 안내문 입니다.
+### 스터디 진행사항 안내
 
 1. [https://github.com/ZERONE-CODE](https://github.com/ZERONE-CODE) 접속 후 그룹 join
 2. [https://github.com/ZERONE-CODE/WIKI](https://github.com/ZERONE-CODE/WIKI ) 를 클론한 뒤, 자신의 영어이름.md 파일 생성.
@@ -20,7 +20,7 @@
 
 진행사항 - 환경구축, 백준 그룹 초대, 프린트문
 
-얘들이 너무 잘한다.
+한줄평 - 얘들이 너무 잘한다.
 
 \#\#\# 3.20 \\(예시\\)
 
