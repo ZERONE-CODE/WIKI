@@ -13,4 +13,4 @@
   * [김민상](study/Kimminsang.md)
   * [김수형](study/KSH.md)
   * [서현범](study/shb.md)
-
+  * [양준혁](study/yjh.md)
