@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [KOI 초등부 조지기](koi.md)
+* 김수형
 
 ## 신입생 스터디 진행사항
 
@@ -11,4 +12,5 @@
   * [박성우](study/psw.md)
   * [윤주경](study/jky.md)
   * [김민상](study/Kimminsang.md)
+  * [김수형](study/KSH.md)
 
