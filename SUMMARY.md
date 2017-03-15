@@ -19,6 +19,7 @@
   * [오현주](study/ohj.md)
   * [최재영](study/ChoiJY.md)
   * [배성훈](study/bsh.md)
+  * [장주섭](study/jjs.md)
 * [C언어 알고리즘](study/algorithm/algo.md)
   * [커리큘럼](study/algorithm/cur.md)
 
