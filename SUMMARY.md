@@ -14,3 +14,6 @@
   * [김수형](study/KSH.md)
   * [서현범](study/shb.md)
   * [양준혁](study/yjh.md)
+* [C언어 알고리즘](study/cc5b8-c5b4-c54c-ace0-b9ac-c998.md)
+  * [커리큘럼](study/cc5b8-c5b4-c54c-ace0-b9ac-c998/cee4-b9ac-d058-b7fc.md)
+
