@@ -16,7 +16,7 @@
   * [양준혁](study/yjh.md)
   * [나윤환](study/nyh.md)
   * [윤가영](study/YunGY.md)
-  * [오현주](study/ohj.md)
+  * [오현주](study/ohj.md)
 * [C언어 알고리즘](study/algorithm/algo.md)
   * [커리큘럼](study/algorithm/cur.md)
 
