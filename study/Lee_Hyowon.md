@@ -11,8 +11,9 @@
 ## 2017.03.15 (수)
 **강의 내용**
 
-Acmicpc.net, Github, Coding.sh 가입, C언어 기초 및 Github 사용법
+태현 진성 재현 : Acmicpc.net, Github, Coding.sh 가입, C언어 기초 및 Github 사용법
+경리 유신 : 반복문 활용
 
 **Baekjoon Online Judge**
 
-2557, 1000, 1001, 10998
+태현 진성 재현 : 2557, 1000, 1001, 10998
