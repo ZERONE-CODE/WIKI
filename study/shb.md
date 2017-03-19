@@ -17,6 +17,7 @@
 **한줄평**  
 30분만 하고 끝날 줄 알았는데 꽤 오래 걸렸다  
 내 노트북이 가장 꾸지다 ㅡㅡ  
+dd
+[2주차](https://github.com/alchon/C_study/blob/master/study/2%EC%A3%BC%EC%B0%A8.md)
 
 -----------------------------------------
-[2주차](https://github.com/alchon/C_study/blob/master/study/2%EC%A3%BC%EC%B0%A8.md)
