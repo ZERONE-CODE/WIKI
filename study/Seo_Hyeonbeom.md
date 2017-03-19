@@ -19,5 +19,3 @@
 내 노트북이 가장 꾸지다 ㅡㅡ  
 
 -----------------------------------------
-
-[2주차](https://github.com/alchon/C_study/blob/master/study/2%EC%A3%BC%EC%B0%A8.md)
