@@ -23,7 +23,9 @@
   * [한건희](study/Han_Gunhee.md)
   * [이효원](study/Lee_Hyowon.md)
   * [박현준](study/Park_Hyeonjoon.md)
+  
   * [박재훈](study/bc15-c7ac-d6c8.md)
+  
   * [이원정](study/Lee_Wonjung.md)
 * [C언어 변태반](study/hi.md)
   * [박성우](study/hard/Park_Sungwoo.md)
