@@ -25,7 +25,7 @@
   * [박현준](study/Park_Hyeonjoon.md)
   * [박재훈](study/bc15-c7ac-d6c8.md)
   * [이원정](study/Lee_Wonjung.md)
-  * [서그림](study/grim.md)
+  * [서그림](study/Seo_Geurim.md)
 * [C언어 변태반](study/hi.md)
   * [박성우](study/hard/Park_Sungwoo.md)
 * [C언어 알고리즘](study/algorithm/algo.md)
