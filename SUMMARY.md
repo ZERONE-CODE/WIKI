@@ -14,7 +14,7 @@
   * [김수형](study/Kim_Soohyung.md)
   * [서현범](study/Seo_Hyeonbeom.md)
   * [양준혁](study/Yang_JoonHyeok.md)
-  * [나윤환](study/Na_Yoonhwan.md)
+  * [나윤환](study/Na_yunhwan.md)
   * [윤가영](study/Yun_Gayeong.md)
   * [오현주](study/Oh_Hyeonjoo.md)
   * [최재영](study/Choi_Jaeyeong.md)
