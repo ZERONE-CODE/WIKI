@@ -72,6 +72,20 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 문제풀이 : 백준 10039, 2576, 2588, 2163
 
+숙제 : 
+
+https://www.acmicpc.net/problem/10869 \(사칙연산\)
+
+https://www.acmicpc.net/problem/2163 \(초콜릿 자르기\)
+
+https://www.acmicpc.net/problem/10430 \(나머지\)
+
+https://www.acmicpc.net/problem/10817 \(세 수\)
+
+https://www.acmicpc.net/problem/2562 \(최대값\)
+
+https://www.acmicpc.net/problem/2566 \(최댓값\) - 이건 풀고 싶은 사람만 풀어와
+
 #### 한줄평
 
 2시간 했는데 4문제~~?
@@ -90,11 +104,7 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 #### 진행사항
 
-
-
 #### 한줄평
-
-
 
 ---
 
