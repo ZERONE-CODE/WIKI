@@ -24,6 +24,12 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 문제 풀이 : 백준2557번, 1000번, 10699번
 
+숙제 :
+
+●A-B : https://www.acmicpc.net/problem/1001
+
+●고양이 : https://www.acmicpc.net/problem/10171
+
 #### 한줄평
 
 아이들이 너무 어려워한다. 내가 더 노력해야 겠다. 흑흑
@@ -72,19 +78,19 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 문제풀이 : 백준 10039, 2576, 2588, 2163
 
-숙제 : 
+숙제 :
 
-https://www.acmicpc.net/problem/10869 \(사칙연산\)
+[https://www.acmicpc.net/problem/10869](https://www.acmicpc.net/problem/10869) \(사칙연산\)
 
-https://www.acmicpc.net/problem/2163 \(초콜릿 자르기\)
+[https://www.acmicpc.net/problem/2163](https://www.acmicpc.net/problem/2163) \(초콜릿 자르기\)
 
-https://www.acmicpc.net/problem/10430 \(나머지\)
+[https://www.acmicpc.net/problem/10430](https://www.acmicpc.net/problem/10430) \(나머지\)
 
-https://www.acmicpc.net/problem/10817 \(세 수\)
+[https://www.acmicpc.net/problem/10817](https://www.acmicpc.net/problem/10817) \(세 수\)
 
-https://www.acmicpc.net/problem/2562 \(최대값\)
+[https://www.acmicpc.net/problem/2562](https://www.acmicpc.net/problem/2562) \(최대값\)
 
-https://www.acmicpc.net/problem/2566 \(최댓값\) - 이건 풀고 싶은 사람만 풀어와
+[https://www.acmicpc.net/problem/2566](https://www.acmicpc.net/problem/2566) \(최댓값\) - 이건 풀고 싶은 사람만 풀어와
 
 #### 한줄평
 
@@ -96,15 +102,23 @@ https://www.acmicpc.net/problem/2566 \(최댓값\) - 이건 풀고 싶은 사람
 
 #### 출석현황
 
-* [ ] 박수민
-* [ ] 박혜진
-* [ ] 신재혁
-* [ ] 안호준
-* [ ] 정민균
+* [x] 박수민
+* [x] 박혜진
+* [x] 신재혁
+* [x] 안호준
+* [x] 정민균
 
 #### 진행사항
 
+2017년 3월 27일 7시 ~ 9시 30분 -SMASH에서 진행
+
+지난시간 숙제 풀이 \(10817번 2562번\)
+
+for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르침\)
+
 #### 한줄평
+
+반복반복반복반복반복
 
 ---
 
