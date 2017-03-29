@@ -23,7 +23,7 @@
   * [한건희](study/Han_Gunhee.md)
   * [이효원](study/Lee_Hyowon.md)
   * [박현준](study/Park_Hyeonjoon.md)
-  * [박재훈](study/bc15-c7ac-d6c8.md)
+  * [박재훈](study/Park_Jaehoon.md)
   * [이원정](study/Lee_Wonjung.md)
   * [서그림](study/Seo_Geurim.md)
 * [C언어 변태반](study/hi.md)
