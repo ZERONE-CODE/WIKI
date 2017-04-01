@@ -1,4 +1,6 @@
-[https://github.com/zooomg/acmicpc.net](https://github.com/zooomg/acmicpc.net)
+# 씉
 
-아직 분류 작업 안함
+##   - 권용석 이채린 주민건
+
+KOI 본선 고등부 조지기를 통해 새로운 알고리즘 공부 및 대회 준비 1석 2조 효과
 
