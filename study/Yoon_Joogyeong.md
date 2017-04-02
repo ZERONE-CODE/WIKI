@@ -140,19 +140,21 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 정렬 \(삽입정렬, 버블정렬\)
 
+문제풀이 : 백준 2953,2750
+
 숙제
 
-https://www.acmicpc.net/problem/2750 \(수 정렬하기\)
+[https://www.acmicpc.net/problem/2750](https://www.acmicpc.net/problem/2750) \(수 정렬하기\)
 
-https://www.acmicpc.net/problem/2846 \(오르막길\)
+[https://www.acmicpc.net/problem/2846](https://www.acmicpc.net/problem/2846) \(오르막길\)
 
-https://www.acmicpc.net/problem/2741 \(N찍기\)
+[https://www.acmicpc.net/problem/2741](https://www.acmicpc.net/problem/2741) \(N찍기\)
 
-https://www.acmicpc.net/problem/2739 \(구구단\)
+[https://www.acmicpc.net/problem/2739](https://www.acmicpc.net/problem/2739) \(구구단\)
 
-https://www.acmicpc.net/problem/2822 \(점수계산\)
+[https://www.acmicpc.net/problem/2822](https://www.acmicpc.net/problem/2822) \(점수계산\)
 
-https://www.acmicpc.net/problem/2847 \(게임을 만든 동준이\)
+[https://www.acmicpc.net/problem/2847](https://www.acmicpc.net/problem/2847) \(게임을 만든 동준이\)
 
 #### 한줄평
 
@@ -172,11 +174,7 @@ https://www.acmicpc.net/problem/2847 \(게임을 만든 동준이\)
 
 #### 진행사항
 
-
-
 #### 한줄평
-
-
 
 ---
 
@@ -191,8 +189,6 @@ https://www.acmicpc.net/problem/2847 \(게임을 만든 동준이\)
 * [ ] 정민균
 
 #### 진행사항
-
-
 
 #### 한줄평
 
