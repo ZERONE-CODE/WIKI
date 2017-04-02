@@ -26,9 +26,9 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 숙제 :
 
-●A-B : https://www.acmicpc.net/problem/1001
+●A-B : [https://www.acmicpc.net/problem/1001](https://www.acmicpc.net/problem/1001)
 
-●고양이 : https://www.acmicpc.net/problem/10171
+●고양이 : [https://www.acmicpc.net/problem/10171](https://www.acmicpc.net/problem/10171)
 
 #### 한줄평
 
@@ -110,7 +110,7 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 #### 진행사항
 
-2017년 3월 27일 7시 ~ 9시 30분 -SMASH에서 진행
+2017년 3월 27일 오후 7시 ~ 9시 30분 -SMASH에서 진행
 
 지난시간 숙제 풀이 \(10817번 2562번\)
 
@@ -126,6 +126,44 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 #### 출석현황
 
+* [x] 박수민
+* [x] 박혜진
+* [x] 신재혁
+* [x] 안호준
+* [x] 정민균
+
+#### 진행사항
+
+2017년 3월 28일 3시 ~5시 30분 - SMASH에서 진행
+
+1차원 배열의 기초 \(출력 / 입력\)
+
+정렬 \(삽입정렬, 버블정렬\)
+
+숙제
+
+https://www.acmicpc.net/problem/2750 \(수 정렬하기\)
+
+https://www.acmicpc.net/problem/2846 \(오르막길\)
+
+https://www.acmicpc.net/problem/2741 \(N찍기\)
+
+https://www.acmicpc.net/problem/2739 \(구구단\)
+
+https://www.acmicpc.net/problem/2822 \(점수계산\)
+
+https://www.acmicpc.net/problem/2847 \(게임을 만든 동준이\)
+
+#### 한줄평
+
+정렬크리
+
+---
+
+## 2017.04.03 \(월\)
+
+#### 출석현황
+
 * [ ] 박수민
 * [ ] 박혜진
 * [ ] 신재혁
@@ -133,6 +171,28 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 * [ ] 정민균
 
 #### 진행사항
+
+
+
+#### 한줄평
+
+
+
+---
+
+## 2017.04.04 \(월\)
+
+#### 출석현황
+
+* [ ] 박수민
+* [ ] 박혜진
+* [ ] 신재혁
+* [ ] 안호준
+* [ ] 정민균
+
+#### 진행사항
+
+
 
 #### 한줄평
 
