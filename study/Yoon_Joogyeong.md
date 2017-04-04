@@ -166,15 +166,29 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 #### 출석현황
 
-* [ ] 박수민
-* [ ] 박혜진
-* [ ] 신재혁
-* [ ] 안호준
-* [ ] 정민균
+* [x] 박수민
+* [x] 박혜진
+* [x] 신재혁
+* [x] 안호준
+* [x] 정민균
 
 #### 진행사항
 
+2017년 4월 3일 19시 ~21시 - SMASH에서 진행
+
+[https://www.acmicpc.net/problem/2846](https://www.gitbook.com/book/zerone/wiki/edit#)\(오르막길\) 문제풀이 및 버블정렬 복습
+
+지역변수, 전역변수 설명 및 재귀함수
+
+문제 풀이:
+
+[https://www.acmicpc.net/problem/10872](https://www.acmicpc.net/problem/10872) \(팩토리얼\)
+
+[https://www.acmicpc.net/problem/1003](https://www.acmicpc.net/problem/1003) \(피보나치 함수\)
+
 #### 한줄평
+
+재귀는 재귀이자 재귀이고 재귀이다.
 
 ---
 
