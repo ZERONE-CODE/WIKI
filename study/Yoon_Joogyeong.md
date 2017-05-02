@@ -206,11 +206,43 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 2017년 4월 4일 14시30분 ~ -SMASH에서 진행
 
-https://www.acmicpc.net/problem/4673 \(셀프넘버\) 문제 풀이
+[https://www.acmicpc.net/problem/4673](https://www.acmicpc.net/problem/4673) \(셀프넘버\) 문제 풀이
 
-https://www.acmicpc.net/problem/1308 \(D-DAY\) 시험 대비 풀어보기
+[https://www.acmicpc.net/problem/1308](https://www.acmicpc.net/problem/1308) \(D-DAY\) 시험 대비 풀어보기
 
 #### 한줄평
 
 we can find the self number.
+
+---
+
+#### 출석현황
+
+* [x] 박수민
+* [ ] 박혜진
+* [x] 신재혁
+* [x] 안호준
+* [ ] 정민균
+
+#### 진행사항
+
+3003번
+
+2884번
+
+2490번
+
+2501번
+
+\(1912번 아무도 못품\)
+
+
+
+#### 한줄평
+
+복습은 중요하다
+
+
+
+
 
