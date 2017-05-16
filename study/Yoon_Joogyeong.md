@@ -260,7 +260,7 @@ we can find the self number.
 
 * 문자열 입력받기
 
-* 문자열서의 NULL 설명
+* 문자열의 NULL 설명
 
 * &lt;string.h&gt;의 strlen함수와 원리 설명
 
@@ -279,6 +279,57 @@ we can find the self number.
 #### 한줄평
 
 까다로운 문제들
+
+---
+
+## 2017.05.16 \(화\)
+
+#### 출석현황
+
+* 박수민
+* 신재혁
+* 안호준
+* 정민균
+
+#### 진행사항
+
+* 아스키코드와 문자사이의 관계 설명
+
+* 문자열 입력받기
+
+* 문자열의 NULL 설명
+
+* &lt;string.h&gt;의 strlen함수와 원리 설명
+
+* gets\(\)로 공백 포함해서 문자열 입력받기
+
+* 이중배열 선언 및 사용
+
+
+
+복습
+
+[https://www.acmicpc.net/problem/11654](https://www.gitbook.com/book/zerone/wiki/edit#)\(아스키 코드\)
+
+[https://www.acmicpc.net/problem/2744](https://www.gitbook.com/book/zerone/wiki/edit#)\(대소문자 바꾸기\)
+
+[https://www.acmicpc.net/problem/10988](https://www.gitbook.com/book/zerone/wiki/edit#)\(펠린드롬인지 확인하기\)
+
+[https://www.acmicpc.net/problem/1919](https://www.gitbook.com/book/zerone/wiki/edit#)\(애너그램 만들기\)
+
+
+
+오늘 진행
+
+[https://www.acmicpc.net/problem/1152](https://www.gitbook.com/book/zerone/wiki/edit#)\(단어의 개수\)
+
+[https://www.acmicpc.net/problem/2167](https://www.acmicpc.net/problem/2167)\(2차원 배열의 합\)
+
+
+
+#### 한줄평
+
+빠지지 맙시다
 
 
 
