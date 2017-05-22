@@ -327,7 +327,7 @@ we can find the self number.
 
 ---
 
-## 2017.05.16 \(화\)
+## 2017.05.22 \(월\)
 
 #### 출석현황
 
@@ -338,35 +338,23 @@ we can find the self number.
 
 #### 진행사항
 
-* 아스키코드와 문자사이의 관계 설명
-
-* 문자열 입력받기
-
-* 문자열의 NULL 설명
-
-* &lt;string.h&gt;의 strlen함수와 원리 설명
-
-* gets\(\)로 공백 포함해서 문자열 입력받기
-
 * 이중배열 선언 및 사용
 
-복습
+#### 문제
 
-[https://www.acmicpc.net/problem/11654](https://www.gitbook.com/book/zerone/wiki/edit#)\(아스키 코드\)
+https://www.acmicpc.net/problem/2669 \(직사각형 네개의 합집합의 면적 구하기\)
 
-[https://www.acmicpc.net/problem/2744](https://www.gitbook.com/book/zerone/wiki/edit#)\(대소문자 바꾸기\)
+https://www.acmicpc.net/problem/11586 \([지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586)\) 
 
-[https://www.acmicpc.net/problem/10988](https://www.gitbook.com/book/zerone/wiki/edit#)\(펠린드롬인지 확인하기\)
+https://www.acmicpc.net/problem/2522 \(별찍기 -12\)
 
-[https://www.acmicpc.net/problem/1919](https://www.gitbook.com/book/zerone/wiki/edit#)\(애너그램 만들기\)
+[스캐너](https://www.acmicpc.net/problem/3035)
 
-오늘 진행
+[달팽이](https://www.acmicpc.net/problem/1913)
 
-[https://www.acmicpc.net/problem/1152](https://www.gitbook.com/book/zerone/wiki/edit#)\(단어의 개수\)
 
-[https://www.acmicpc.net/problem/2167](https://www.acmicpc.net/problem/2167)\(2차원 배열의 합\)
 
 #### 한줄평
 
-빠지지 맙시다
+빠지지 맙시다2
 
