@@ -286,10 +286,10 @@ we can find the self number.
 
 #### 출석현황
 
-* 박수민
-* 신재혁
-* 안호준
-* 정민균
+* [x] 박수민
+* [x] 신재혁
+* [x] 안호준
+* [x] 정민균
 
 #### 진행사항
 
@@ -305,8 +305,6 @@ we can find the self number.
 
 * 이중배열 선언 및 사용
 
-
-
 복습
 
 [https://www.acmicpc.net/problem/11654](https://www.gitbook.com/book/zerone/wiki/edit#)\(아스키 코드\)
@@ -317,19 +315,13 @@ we can find the self number.
 
 [https://www.acmicpc.net/problem/1919](https://www.gitbook.com/book/zerone/wiki/edit#)\(애너그램 만들기\)
 
-
-
 오늘 진행
 
 [https://www.acmicpc.net/problem/1152](https://www.gitbook.com/book/zerone/wiki/edit#)\(단어의 개수\)
 
 [https://www.acmicpc.net/problem/2167](https://www.acmicpc.net/problem/2167)\(2차원 배열의 합\)
 
-
-
 #### 한줄평
 
 빠지지 맙시다
-
-
 
