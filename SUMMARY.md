@@ -6,6 +6,8 @@
 ## 신입생 스터디 진행사항
 
 * [스터디 진행 방법](study/info.md)
+* [C언어 변태반](study/hi.md)
+  * [박성우](study/hard/Park_Sungwoo.md)
 * [C언어 기초반](study/hi.md)
   * [커리큘럼](study/cur.md)
   * [박성우](study/Park_Seongwoo.md)
@@ -26,10 +28,7 @@
   * [박재훈](study/Park_Jaehoon.md)
   * [이원정](study/Lee_Wonjung.md)
   * [서그림](study/Seo_Geurim.md)
-  * [남혜인](study/Nam_Hye_In.md)
-  
-* [C언어 변태반](study/hi.md)
-  * [박성우](study/hard/Park_Sungwoo.md)
+  * [남혜인](study/Nam_Hye_In.md)
 * [C언어 알고리즘](study/algorithm/algo.md)
   * [커리큘럼](study/algorithm/cur.md)
 
