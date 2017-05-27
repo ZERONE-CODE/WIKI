@@ -2,11 +2,11 @@
 
 멘토:  윤주경
 
-멘티: 박수민\(sumin0502\) 박혜진\(jina31000\) 신재혁\(jhdw1120\) 안호준 정민균\(jmk5315\)
+멘티: 박수민\(sumin0502\) ~~박혜진\(jina31000\) ~~신재혁\(jhdw1120\) 안호준 정민균\(jmk5315\)
 
 ---
 
-## 2017.03.15 \(수\)
+## 01 : 2017.03.15 \(수\)
 
 #### 출석현황
 
@@ -36,7 +36,7 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 ---
 
-## 2017.03.20 \(월\)
+## 02 : 2017.03.20 \(월\)
 
 #### 출석현황
 
@@ -60,7 +60,7 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 ---
 
-## 2017.03.21 \(화\)
+## 03 : 2017.03.21 \(화\)
 
 #### 출석현황
 
@@ -98,7 +98,7 @@ C언어 기본 문법, printf\(\),scanf\(\)와 변수 선언.
 
 ---
 
-## 2017.03.27 \(월\)
+## 04 : 2017.03.27 \(월\)
 
 #### 출석현황
 
@@ -122,7 +122,7 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 ---
 
-## 2017.03.28 \(화\)
+## 05 : 2017.03.28 \(화\)
 
 #### 출석현황
 
@@ -162,7 +162,7 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 ---
 
-## 2017.04.03 \(월\)
+## 06 : 2017.04.03 \(월\)
 
 #### 출석현황
 
@@ -192,7 +192,7 @@ for문 가르치고 별찍기-1, 별찍기-2 풀기 \(몇명은 배열도 가르
 
 ---
 
-## 2017.04.04 \(화\)
+## 07 : 2017.04.04 \(화\)
 
 #### 출석현황
 
@@ -216,6 +216,8 @@ we can find the self number.
 
 ---
 
+## 08 : 2017.05.01 \(월\)
+
 #### 출석현황
 
 * [x] 박수민
@@ -236,13 +238,121 @@ we can find the self number.
 
 \(1912번 아무도 못품\)
 
-
-
 #### 한줄평
 
 복습은 중요하다
 
+---
 
+## 09 : 2017.05.08 \(월\)
 
+#### 출석현황
 
+* [x] 박수민
+* [ ] 박혜진
+* [ ] 신재혁
+* [x] 안호준
+* [ ] 정민균
+
+#### 진행사항
+
+* 아스키코드와 문자사이의 관계 설명
+
+* 문자열 입력받기
+
+* 문자열의 NULL 설명
+
+* &lt;string.h&gt;의 strlen함수와 원리 설명
+
+* gets\(\)로 공백 포함해서 문자열 입력받기
+
+[https://www.acmicpc.net/problem/11654](https://www.acmicpc.net/problem/11654) \(아스키 코드\)
+
+[https://www.acmicpc.net/problem/2744](https://www.acmicpc.net/problem/2744) \(대소문자 바꾸기\)
+
+[https://www.acmicpc.net/problem/10988](https://www.acmicpc.net/problem/10988) \(펠린드롬인지 확인하기\)
+
+[https://www.acmicpc.net/problem/1919](https://www.acmicpc.net/problem/1919) \(애너그램 만들기\)
+
+[https://www.acmicpc.net/problem/1152](https://www.acmicpc.net/problem/1152) \(단어의 개수\)
+
+#### 한줄평
+
+까다로운 문제들
+
+---
+
+## 10 : 2017.05.16 \(화\)
+
+#### 출석현황
+
+* [x] 박수민
+* [x] 신재혁
+* [x] 안호준
+* [x] 정민균
+
+#### 진행사항
+
+* 아스키코드와 문자사이의 관계 설명
+
+* 문자열 입력받기
+
+* 문자열의 NULL 설명
+
+* &lt;string.h&gt;의 strlen함수와 원리 설명
+
+* gets\(\)로 공백 포함해서 문자열 입력받기
+
+* 이중배열 선언 및 사용
+
+복습
+
+[https://www.acmicpc.net/problem/11654](https://www.gitbook.com/book/zerone/wiki/edit#)\(아스키 코드\)
+
+[https://www.acmicpc.net/problem/2744](https://www.gitbook.com/book/zerone/wiki/edit#)\(대소문자 바꾸기\)
+
+[https://www.acmicpc.net/problem/10988](https://www.gitbook.com/book/zerone/wiki/edit#)\(펠린드롬인지 확인하기\)
+
+[https://www.acmicpc.net/problem/1919](https://www.gitbook.com/book/zerone/wiki/edit#)\(애너그램 만들기\)
+
+오늘 진행
+
+[https://www.acmicpc.net/problem/1152](https://www.gitbook.com/book/zerone/wiki/edit#)\(단어의 개수\)
+
+[https://www.acmicpc.net/problem/2167](https://www.acmicpc.net/problem/2167)\(2차원 배열의 합\)
+
+#### 한줄평
+
+빠지지 맙시다
+
+---
+
+## 11 : 2017.05.22 \(월\)
+
+#### 출석현황
+
+* [x] 박수민
+* [x] 신재혁
+* [x] 안호준
+* [ ] 정민균
+
+#### 진행사항
+
+* 이중배열 선언 및 사용
+
+#### 문제
+
+[https://www.acmicpc.net/problem/2669](https://www.acmicpc.net/problem/2669) \(직사각형 네개의 합집합의 면적 구하기\)
+
+[https://www.acmicpc.net/problem/11586](https://www.acmicpc.net/problem/11586) \([지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586)\)
+
+[https://www.acmicpc.net/problem/2522](https://www.acmicpc.net/problem/2522) \(별찍기 -12\)
+
+[스캐너](https://www.acmicpc.net/problem/3035)
+
+[달팽이](https://www.acmicpc.net/problem/1913)
+
+#### 한줄평
+
+빠지지 맙시다2
 
