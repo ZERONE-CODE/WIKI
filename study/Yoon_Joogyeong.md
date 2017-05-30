@@ -377,8 +377,6 @@ we can find the self number.
 
 없음
 
-
-
 #### 한줄평
 
 공부좀하자
@@ -409,30 +407,6 @@ we can find the self number.
 #### 한줄평
 
 공부좀하자2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
----
 
 
 
